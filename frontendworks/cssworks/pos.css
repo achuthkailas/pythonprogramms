@@ -1,0 +1,44 @@
+.parent
+{
+    width: 300px;
+    height: 400px;
+    border: 2px solid red;
+    position: relative;
+    margin-left: 400px;
+}
+.d1
+{
+    width:100px;
+    height: 60px;
+    border: 2px solid blue;
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+.d2
+{
+    width:100px;
+    height: 60px;
+    border: 2px solid green;
+    position: absolute;
+    top: 30px;
+    right:25px;
+}
+.d3
+{
+    width:100px;
+    height: 60px;
+    border: 2px solid green;
+    position: absolute;
+    bottom: 10px;
+    left: 10px;
+}
+.d4
+{
+    width:100px;
+    height: 60px;
+    border: 2px solid blue;
+    position: absolute;
+    bottom: 0;
+    right: 0;
+}
